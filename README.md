@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 🌱 I’m currently learning Data Structure and Algorithms, AI and hoping I can be employed by FAANG :3
-- 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Anything :3
 - 📫 How to reach me: By clicking the above button XD
 - ⚡ Fun fact: I have no fun
